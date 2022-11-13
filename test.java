@@ -11,6 +11,9 @@ public class Sample702 {
         //  ゲッターで値を呼び出し、内容を表示
         System.out.println(s.getNumber());
         System.out.println(s.getStr());
+
+        // 日高追記コメント
+        System.out.println("日高追記コメント");
     }
 
 }
